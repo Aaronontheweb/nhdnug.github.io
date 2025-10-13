@@ -5,7 +5,7 @@ title:              "Is Your Local Dev Environment a Mess? How .NET Aspire Can H
 location:           "SmartDraw Software"
 sponsors:           ["SmartDraw Software"]
 description:        "Use .NET Aspire to make local dev workflows easier and reproducible."
-meetup:             "310256596"
+meetup:             "311524239"
 survey-url:         ""
 ---
 
